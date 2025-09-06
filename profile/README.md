@@ -1,12 +1,34 @@
-## WELCOME TO TUS ĐA THÊ CORPORATION AYYYYYYYYYYYYYYYY
+<div align="center">
+  <i>Insert branding here</i><br>
+  Chào mừng các bạn đã đến với Tổ chức (Organization) GitHub của Arknights Vietnam Station!
+</div>
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+<div align="center">
+  <h2>Đây là gì?</h2>
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Lúc ban đầu, đây là nơi mà team IT của Dreamchasers làm nên mọi thứ cho Arknights VNS Offline 2025. Sau đó, nó trở thành nơi anh em *Zone Informatique* ~~bousculer nhau~~ làm nên các dự án khác cho Arknights VNS.
+
+---
+
+<div align="center">
+  <h2>Ai làm nên nơi này?</h2>
+</div>
+
+- [swyrin](https://github.com/swyrin): ~~Đại đế~~ Leader của Team IT, người gánh full stack web Dreamchasers
+- [shou.](https://github.com/shou-huynh): Admin AK VNS, tạo github làm gì thì không biết <(")
+- [Kazama Kamito](https://github.com/KZHKMT): ~~fuong~~ sysadmin, người cung cấp nơi mà các trang web của AK VNS chạy
+- [Shiina Kochiya](https://github.com/ShiinaKochiya): Front-end developer, MC của phần AK Wordle trong Offline 2025
+- [giabao06](https://github.com/giabao06): Back-end developer, sysadmin
+- [Cerberose](https://github.com/Cerberoseee): Front-end developer
+- [Silverglow](https://github.com/NTAnhclc21): Front-end developer
+- [noname4now](https://github.com/noname4now): Front-end developer
+
+---
+
+<div align="center">
+  <p>Chúng mình cảm ơn các bạn đã tới thăm khu vực này <("). From all of us at Tus Đa Thê Corp,</p>
+  <h1>WELCOME TO TUS ĐA THÊ CORPORATION AYYYYYYYYYYYYYYYY</h1>
+</div>
