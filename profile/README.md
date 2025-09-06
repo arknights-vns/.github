@@ -24,7 +24,7 @@ Lúc ban đầu, đây là nơi mà team IT của Dreamchasers làm nên mọi t
 - [giabao06](https://github.com/giabao06): Back-end developer, sysadmin
 - [Cerberose](https://github.com/Cerberoseee): Front-end developer
 - [Silverglow](https://github.com/NTAnhclc21): Front-end developer
-- [noname4now](https://github.com/noname4now): Front-end developer
+- [noname4now](https://github.com/DoTanLoc2003): Front-end developer
 
 ---
 
