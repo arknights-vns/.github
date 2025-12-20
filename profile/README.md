@@ -1,6 +1,7 @@
 [!IMPORTANT]
 > BREAKING: TUS REPLACING EVERY MEMBER WITH VIBE CODER
-> As such, we are replacing all of our members with Vibe coders, effective soon™
+>
+> As such, we are *replacing all of our members with Vibe coders*, effective soon™
 
  <div align="center">
   <i>Insert branding here</i><br>
