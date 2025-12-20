@@ -1,5 +1,5 @@
-[!IMPORTANT]
-> BREAKING: TUS REPLACING EVERY MEMBER WITH VIBE CODER
+> [!IMPORTANT]
+> > BREAKING: TUS REPLACING EVERY MEMBER WITH VIBE CODER
 >
 > As such, we are *replacing all of our members with Vibe coders*, effective soon™
 
