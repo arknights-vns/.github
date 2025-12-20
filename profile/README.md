@@ -1,4 +1,8 @@
-<div align="center">
+[!IMPORTANT]
+> BREAKING: TUS REPLACING EVERY MEMBER WITH VIBE CODER
+> As such, we are replacing all of our members with Vibe coders, effective soon™
+
+ <div align="center">
   <i>Insert branding here</i><br>
   Chào mừng các bạn đã đến với Tổ chức (Organization) GitHub của Arknights Vietnam Station!
 </div>
