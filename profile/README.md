@@ -22,7 +22,6 @@ Lúc ban đầu, đây là nơi mà team IT của Dreamchasers làm nên mọi t
   <h2>Ai làm nên nơi này?</h2>
 </div>
 
-- [swyrin](https://github.com/swyrin): ~~Đại đế~~ Leader của Team IT, người gánh full stack web Dreamchasers
 - [shou.](https://github.com/shou-huynh): Admin AK VNS, tạo github làm gì thì không biết <(")
 - [Kazama Kamito](https://github.com/KZHKMT): ~~fuong~~ sysadmin, người cung cấp nơi mà các trang web của AK VNS chạy
 - [Shiina Kochiya](https://github.com/ShiinaKochiya): Front-end developer, MC của phần AK Wordle trong Offline 2025
