@@ -23,9 +23,6 @@ Lúc ban đầu, đây là nơi mà team IT của Dreamchasers làm nên mọi t
 </div>
 
 - [shou.](https://github.com/shou-huynh): Admin AK VNS, tạo github làm gì thì không biết <(")
-- [Kazama Kamito](https://github.com/KZHKMT): ~~fuong~~ sysadmin, người cung cấp nơi mà các trang web của AK VNS chạy
-- [Shiina Kochiya](https://github.com/ShiinaKochiya): Front-end developer, MC của phần AK Wordle trong Offline 2025
-- [giabao06](https://github.com/giabao06): Back-end developer, sysadmin
 - [Cerberose](https://github.com/Cerberoseee): Front-end developer
 - [Silverglow](https://github.com/NTAnhclc21): Front-end developer
 - [jameshanderson](https://github.com/James-cmd-147): Front-end developer
