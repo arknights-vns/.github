@@ -1,34 +1,5 @@
-> [!IMPORTANT]
-> > BREAKING: TUS REPLACING EVERY MEMBER WITH VIBE CODER
->
-> As such, we are *replacing all of our members with Vibe coders*, effective soon™
+# Hoot hoot
 
- <div align="center">
-  <i>Insert branding here</i><br>
-  Chào mừng các bạn đã đến với Tổ chức (Organization) GitHub của Arknights Vietnam Station!
-</div>
+We are the Nest.
 
----
-
-<div align="center">
-  <h2>Đây là gì?</h2>
-</div>
-
-Lúc ban đầu, đây là nơi mà team IT của Dreamchasers làm nên mọi thứ cho Arknights VNS Offline 2025. Sau đó, nó trở thành nơi anh em *Zone Informatique* ~~bousculer nhau~~ làm nên các dự án khác cho Arknights VNS.
-
----
-
-<div align="center">
-  <h2>Ai làm nên nơi này?</h2>
-</div>
-
-- [shou.](https://github.com/shou-huynh): Admin AK VNS, tạo github làm gì thì không biết <(")
-- [Cerberose](https://github.com/Cerberoseee): Front-end developer
-- [Silverglow](https://github.com/NTAnhclc21): Front-end developer
-- [jameshanderson](https://github.com/James-cmd-147): Front-end developer
----
-
-<div align="center">
-  <p>Chúng mình cảm ơn các bạn đã tới thăm khu vực này <("). From all of us at Tus Đa Thê Corp,</p>
-  <h1>WELCOME TO TUS ĐA THÊ CORPORATION AYYYYYYYYYYYYYYYY</h1>
-</div>
+(actually we are setting up, cool things may come soon at your local theatres)
